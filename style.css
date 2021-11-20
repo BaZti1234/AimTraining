@@ -1,0 +1,25 @@
+body{
+  background-color: #23272A;  
+  font-family: 'Roboto', sans-serif;
+}
+
+#circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #99AAB5;
+    cursor: pointer;
+}
+
+#label{
+    margin-left: 722px;
+    font-size: 38px;
+    color: white;
+}
+
+#label_score{
+    margin-left: 761px;
+    margin-top: 0px;
+    font-size: 32px;
+    color: white;
+}
